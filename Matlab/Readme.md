@@ -31,11 +31,3 @@ text2speech.m - This function converts text into speech (old, but allows voice a
 unloadSpeechLibrary.m - unloads the speech library
 
 ------------------------------------------
-
-Reference articles
-
-[1]https://www.gamedev.net/page/resources/_/technical/apis-and-tools/using-text-to-speech-as-a-game-programming-tool-r1904
-
-[2] https://www.mathworks.in/matlabcentral/fileexchange/11297-text2speech-tts
-
-[3] https://www.pantechsolutions.net/matlab-code-for-text-to-speech-converter
