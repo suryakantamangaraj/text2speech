@@ -10,6 +10,7 @@ Getting started with text2speech Converter
 * Make sure SAPI is installed on your computer
 
 a) ![Get the Speech SDK 5.1 (86MB) for free from Microsoft:](http://www.microsoft.com/downloads/details.aspx?FamilyId=5E86EC97-40A7-453F-B0EE-6583171B4530&displaylang=en)
+
 b) Test your default computer voice
 
    Start -> Control Panel -> Sounds,Speech...-> Speech -> Text To Speech -> Preview Voice
