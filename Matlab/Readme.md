@@ -4,6 +4,7 @@ The purpose of this article is to introduce the use of Microsoft's Speech API (S
 
 Note: This article will be using Matlab, on the Win32 platform. The source code and how to video for this article is available at the bottom of this page.
 
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 Getting started with text2speech Converter
 
@@ -14,3 +15,27 @@ a) ![Get the Speech SDK 5.1 (86MB) for free from Microsoft:](http://www.microsof
 b) Test your default computer voice
 
    Start -> Control Panel -> Sounds,Speech...-> Speech -> Text To Speech -> Preview Voice
+   
+* Add the text2speech folder to your Matlabpath
+
+* Matlab code for Text to Speech Converter
+
+tts.m - This function converts text into speech (latest .Net version).
+
+speak.m - This function converts text into speech (old).
+
+initSpeech.m - loads the speech library (a privat function)
+
+text2speech.m - This function converts text into speech (old, but allows voice attributes).
+
+unloadSpeechLibrary.m - unloads the speech library
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+Reference articles
+
+[1]https://www.gamedev.net/page/resources/_/technical/apis-and-tools/using-text-to-speech-as-a-game-programming-tool-r1904
+
+[2] https://www.mathworks.in/matlabcentral/fileexchange/11297-text2speech-tts
+
+[3] https://www.pantechsolutions.net/matlab-code-for-text-to-speech-converter
