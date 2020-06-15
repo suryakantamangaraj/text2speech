@@ -4,7 +4,6 @@ The purpose of this article is to introduce the use of Microsoft's Speech API (S
 
 Note: This article will be using Matlab, on the Win32 platform. The source code and how to video for this article is available at the bottom of this page.
 
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 Getting started with text2speech Converter
 
@@ -19,6 +18,7 @@ b) Test your default computer voice
 * Add the text2speech folder to your Matlabpath
 
 * Matlab code for Text to Speech Converter
+------------------------------------------
 
 tts.m - This function converts text into speech (latest .Net version).
 
@@ -30,7 +30,7 @@ text2speech.m - This function converts text into speech (old, but allows voice a
 
 unloadSpeechLibrary.m - unloads the speech library
 
-````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+------------------------------------------
 
 Reference articles
 
